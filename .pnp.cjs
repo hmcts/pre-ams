@@ -74,7 +74,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-jest", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:27.2.1"],\
             ["express", "npm:4.18.2"],\
             ["express-nunjucks", "npm:2.2.5"],\
-            ["glob", "npm:10.0.0"],\
+            ["glob", "npm:10.1.0"],\
             ["govuk-frontend", "npm:4.5.0"],\
             ["helmet", "npm:6.1.5"],\
             ["html-webpack-plugin", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:5.5.0"],\
@@ -7888,7 +7888,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@npmcli/move-file", "npm:2.0.1"],\
             ["chownr", "npm:2.0.0"],\
             ["fs-minipass", "npm:2.1.0"],\
-            ["glob", "npm:8.0.3"],\
+            ["glob", "npm:8.1.0"],\
             ["infer-owner", "npm:1.0.4"],\
             ["lru-cache", "npm:7.14.0"],\
             ["minipass", "npm:3.3.5"],\
@@ -10802,14 +10802,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["glob", [\
-        ["npm:10.0.0", {\
-          "packageLocation": "./.yarn/cache/glob-npm-10.0.0-2ee461f777-3852a6b847.zip/node_modules/glob/",\
+        ["npm:10.1.0", {\
+          "packageLocation": "./.yarn/cache/glob-npm-10.1.0-674e64b133-93021661bf.zip/node_modules/glob/",\
           "packageDependencies": [\
-            ["glob", "npm:10.0.0"],\
+            ["glob", "npm:10.1.0"],\
             ["fs.realpath", "npm:1.0.0"],\
             ["minimatch", "npm:9.0.0"],\
             ["minipass", "npm:5.0.0"],\
-            ["path-scurry", "npm:1.6.4"]\
+            ["path-scurry", "npm:1.7.0"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -10848,18 +10848,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["minimatch", "npm:3.1.2"],\
             ["once", "npm:1.4.0"],\
             ["path-is-absolute", "npm:1.0.1"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:8.0.3", {\
-          "packageLocation": "./.yarn/cache/glob-npm-8.0.3-750f909025-50bcdea19d.zip/node_modules/glob/",\
-          "packageDependencies": [\
-            ["glob", "npm:8.0.3"],\
-            ["fs.realpath", "npm:1.0.0"],\
-            ["inflight", "npm:1.0.6"],\
-            ["inherits", "npm:2.0.4"],\
-            ["minimatch", "npm:5.1.0"],\
-            ["once", "npm:1.4.0"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -14473,10 +14461,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["path-scurry", [\
-        ["npm:1.6.4", {\
-          "packageLocation": "./.yarn/cache/path-scurry-npm-1.6.4-6d612a3f34-bd5262b51d.zip/node_modules/path-scurry/",\
+        ["npm:1.7.0", {\
+          "packageLocation": "./.yarn/cache/path-scurry-npm-1.7.0-e40ac7023f-4e86df0fa6.zip/node_modules/path-scurry/",\
           "packageDependencies": [\
-            ["path-scurry", "npm:1.6.4"],\
+            ["path-scurry", "npm:1.7.0"],\
             ["lru-cache", "npm:9.0.0"],\
             ["minipass", "npm:5.0.0"]\
           ],\
@@ -15689,7 +15677,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-jest", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:27.2.1"],\
             ["express", "npm:4.18.2"],\
             ["express-nunjucks", "npm:2.2.5"],\
-            ["glob", "npm:10.0.0"],\
+            ["glob", "npm:10.1.0"],\
             ["govuk-frontend", "npm:4.5.0"],\
             ["helmet", "npm:6.1.5"],\
             ["html-webpack-plugin", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:5.5.0"],\
