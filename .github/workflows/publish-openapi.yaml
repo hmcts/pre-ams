@@ -12,4 +12,3 @@ jobs:
     with:
       test_to_run: 'uk.gov.hmcts.reform.civil.openapi.OpenAPIPublisherTest'
       node_version: 18
-
