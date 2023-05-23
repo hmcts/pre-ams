@@ -76,6 +76,7 @@
     "axios-debug-log": "^1.0.0",
     "babel-loader": "^9.0.0",
     "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
     "chai-as-promised": "^7.1.1",
     "codeceptjs": "^3.3.6",
     "copy-webpack-plugin": "10.2.4",
