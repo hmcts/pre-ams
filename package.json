@@ -59,6 +59,7 @@
     "stylelint": "^15.0.0",
     "stylelint-config-standard": "^33.0.0",
     "stylelint-config-standard-scss": "^9.0.0",
+    "swagger-jsdoc": "^6.2.8",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.1.0",
     "typescript": "^5.0.0"
@@ -76,8 +77,8 @@
     "axios-debug-log": "^1.0.0",
     "babel-loader": "^9.0.0",
     "chai": "^4.3.6",
-    "chai-http": "^4.3.0",
     "chai-as-promised": "^7.1.1",
+    "chai-http": "^4.3.0",
     "codeceptjs": "^3.3.6",
     "copy-webpack-plugin": "10.2.4",
     "css-loader": "^6.7.1",
