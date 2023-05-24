@@ -6948,17 +6948,25 @@ pkg-dir@^4.1.0, pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
-playwright-core@1.34.2:
-  version "1.34.2"
-  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.34.2.tgz#4989ba082f623f21679724033629b2333b626569"
-  integrity sha512-MrkgGWLANc5qthXduvIY1a/tuafROyTORVd86fwKwgoYrmnBooN/GgeZSBm7ljTLV2FCWNSXV3se7qeScKn83g==
+"playwright-core@npm:1.34.2":
+  version: 1.34.2
+  resolution: "playwright-core@npm:1.34.2"
+  bin:
+    playwright: cli.js
+  checksum: 7902f973d47c3d6affb794f0120d9f318e9fb098606dc7152e18f254ed1ceb2bbeafc40620b12d48a14b628b31c1d7bd05cdfe920af085dadb21a51128684a4b
+  languageName: node
+  linkType: hard
 
-playwright@^1.25.2:
-  version "1.34.2"
-  resolved "https://registry.yarnpkg.com/playwright/-/playwright-1.34.2.tgz#58240fa16d304a5500ae3dc9772d0c3487918e17"
-  integrity sha512-12K4LFCpUvU88+PLDB/VhE9VnqKu81ghNXq9bhBqIxCRt2MDCS3mAvMj9tV1sCc4l6kXX79aFmdGSjhG4CI8Ag==
+"playwright@npm:^1.25.2":
+  version: 1.34.2
+  resolution: "playwright@npm:1.34.2"
   dependencies:
-    playwright-core "1.34.2"
+    playwright-core: 1.34.2
+  bin:
+    playwright: cli.js
+  checksum: 4c980815447557a6a1fd78aa05c0348dfc2f5c64fb59b7361b7f6e88014dcd3e1eeac553da3f6bce5f1a42deae6daaa7e589cf1500a97bde7057107e5c440f5a
+  languageName: node
+  linkType: hard
 
 postcss-media-query-parser@^0.2.3:
   version "0.2.3"
@@ -8434,15 +8442,20 @@ ts-jest@^29.0.1:
     semver "7.x"
     yargs-parser "^21.0.1"
 
-ts-loader@^9.3.1:
-  version "9.4.3"
-  resolved "https://registry.yarnpkg.com/ts-loader/-/ts-loader-9.4.3.tgz#55cfa7c28dd82a2de968ae45c3adb75fb888b27e"
-  integrity sha512-n3hBnm6ozJYzwiwt5YRiJZkzktftRpMiBApHaJPoWLA+qetQBAXkHqCLM6nwSdRDimqVtA5ocIkcTRLMTt7yzA==
+"ts-loader@npm:^9.3.1":
+  version: 9.4.3
+  resolution: "ts-loader@npm:9.4.3"
   dependencies:
-    chalk "^4.1.0"
-    enhanced-resolve "^5.0.0"
-    micromatch "^4.0.0"
-    semver "^7.3.4"
+    chalk: ^4.1.0
+    enhanced-resolve: ^5.0.0
+    micromatch: ^4.0.0
+    semver: ^7.3.4
+  peerDependencies:
+    typescript: "*"
+    webpack: ^5.0.0
+  checksum: 139ed53bc60717d0ca231cdffbdef7566b9feda11c72fecc697983113f1266ccca2e1cdf191f841a43afa6b87d6afe57a0caf4feecf02f30845aa7ac6f2411a4
+  languageName: node
+  linkType: hard
 
 ts-node@^10.9.1:
   version "10.9.1"
