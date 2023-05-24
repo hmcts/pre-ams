@@ -1,0 +1,10 @@
+apiVersion: v2
+appVersion: '1.0'
+description: A Helm chart for pre-ams App
+name: pre-ams
+home: https://github.com/hmcts/pre-ams
+version: 0.0.1
+dependencies:
+  - name: nodejs
+    version: 2.4.15
+    repository: 'https://hmctspublic.azurecr.io/helm/v1/repo/'
