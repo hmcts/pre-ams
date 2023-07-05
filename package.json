@@ -95,7 +95,7 @@
     "nodemon": "^2.0.19",
     "pa11y": "^6.2.3",
     "playwright": "^1.25.2",
-    "prettier": "^2.7.1",
+    "prettier": "^3.0.0",
     "request": "^2.88.2",
     "sass": "^1.54.9",
     "sass-loader": "^13.0.2",
