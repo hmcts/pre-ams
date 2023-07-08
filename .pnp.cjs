@@ -74,7 +74,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-jest", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:27.2.2"],\
             ["express", "npm:4.18.2"],\
             ["express-nunjucks", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:3.1.0"],\
-            ["glob", "npm:10.3.2"],\
+            ["glob", "npm:10.3.3"],\
             ["govuk-frontend", "npm:4.7.0"],\
             ["helmet", "npm:7.0.0"],\
             ["html-webpack-plugin", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:5.5.3"],\
@@ -4161,7 +4161,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@npmcli/map-workspaces", "npm:3.0.4"],\
             ["@npmcli/name-from-folder", "npm:2.0.0"],\
-            ["glob", "npm:10.3.2"],\
+            ["glob", "npm:10.3.3"],\
             ["minimatch", "npm:9.0.2"],\
             ["read-package-json-fast", "npm:3.0.2"]\
           ],\
@@ -4216,7 +4216,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@npmcli/package-json", "npm:3.1.1"],\
             ["@npmcli/git", "npm:4.1.0"],\
-            ["glob", "npm:10.3.2"],\
+            ["glob", "npm:10.3.3"],\
             ["json-parse-even-better-errors", "npm:3.0.0"],\
             ["normalize-package-data", "npm:5.0.0"],\
             ["npm-normalize-package-bin", "npm:3.0.1"],\
@@ -6993,7 +6993,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["cacache", "npm:17.1.3"],\
             ["@npmcli/fs", "npm:3.1.0"],\
             ["fs-minipass", "npm:3.0.2"],\
-            ["glob", "npm:10.3.2"],\
+            ["glob", "npm:10.3.3"],\
             ["lru-cache", "npm:7.14.0"],\
             ["minipass", "npm:5.0.0"],\
             ["minipass-collect", "npm:1.0.2"],\
@@ -10089,10 +10089,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["glob", [\
-        ["npm:10.3.2", {\
-          "packageLocation": "./.yarn/cache/glob-npm-10.3.2-094624ffbc-3b4f455192.zip/node_modules/glob/",\
+        ["npm:10.3.3", {\
+          "packageLocation": "./.yarn/cache/glob-npm-10.3.3-2d9abea8c7-29190d3291.zip/node_modules/glob/",\
           "packageDependencies": [\
-            ["glob", "npm:10.3.2"],\
+            ["glob", "npm:10.3.3"],\
             ["foreground-child", "npm:3.1.0"],\
             ["jackspeak", "npm:2.0.3"],\
             ["minimatch", "npm:9.0.1"],\
@@ -13775,7 +13775,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["columnify", "npm:1.6.0"],\
             ["fastest-levenshtein", "npm:1.0.16"],\
             ["fs-minipass", "npm:3.0.2"],\
-            ["glob", "npm:10.3.2"],\
+            ["glob", "npm:10.3.3"],\
             ["graceful-fs", "npm:4.2.11"],\
             ["hosted-git-info", "npm:6.1.1"],\
             ["ini", "npm:4.1.1"],\
@@ -15241,7 +15241,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/read-package-json-npm-6.0.4-bf5c705b94-ce40c46712.zip/node_modules/read-package-json/",\
           "packageDependencies": [\
             ["read-package-json", "npm:6.0.4"],\
-            ["glob", "npm:10.3.2"],\
+            ["glob", "npm:10.3.3"],\
             ["json-parse-even-better-errors", "npm:3.0.0"],\
             ["normalize-package-data", "npm:5.0.0"],\
             ["npm-normalize-package-bin", "npm:3.0.1"]\
@@ -15752,7 +15752,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-jest", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:27.2.2"],\
             ["express", "npm:4.18.2"],\
             ["express-nunjucks", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:3.1.0"],\
-            ["glob", "npm:10.3.2"],\
+            ["glob", "npm:10.3.3"],\
             ["govuk-frontend", "npm:4.7.0"],\
             ["helmet", "npm:7.0.0"],\
             ["html-webpack-plugin", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:5.5.3"],\
