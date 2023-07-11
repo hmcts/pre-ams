@@ -61,7 +61,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["body-parser", "npm:1.20.2"],\
             ["chai", "npm:4.3.7"],\
             ["chai-as-promised", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:7.1.1"],\
-            ["codeceptjs", "npm:3.5.1"],\
+            ["codeceptjs", "npm:3.5.2"],\
             ["config", "npm:3.3.9"],\
             ["cookie-parser", "npm:1.4.6"],\
             ["copy-webpack-plugin", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:10.2.4"],\
@@ -3214,7 +3214,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@codeceptjs/configure", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:0.10.0"],\
             ["@types/codeceptjs", null],\
-            ["codeceptjs", "npm:3.5.1"],\
+            ["codeceptjs", "npm:3.5.2"],\
             ["lodash.merge", "npm:4.6.2"],\
             ["lodash.mergewith", "npm:4.6.2"]\
           ],\
@@ -5528,10 +5528,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["acorn", [\
-        ["npm:7.4.1", {\
-          "packageLocation": "./.yarn/cache/acorn-npm-7.4.1-f450b4646c-1860f23c21.zip/node_modules/acorn/",\
+        ["npm:8.10.0", {\
+          "packageLocation": "./.yarn/cache/acorn-npm-8.10.0-2230c9e83e-538ba38af0.zip/node_modules/acorn/",\
           "packageDependencies": [\
-            ["acorn", "npm:7.4.1"]\
+            ["acorn", "npm:8.10.0"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -6852,10 +6852,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:9db7eeae0b9051b7023b435aabb458aeda810287297541092fc33d66203d3f692d29f94d798473e893c26ca5c6b71db58a05477bbeaae71eb4bb18a0cd4ac5f0#npm:1.2.1", {\
-          "packageLocation": "./.yarn/__virtual__/chai-deep-match-virtual-fab0b8a74f/0/cache/chai-deep-match-npm-1.2.1-dabaea01b5-fb8500cab7.zip/node_modules/chai-deep-match/",\
+        ["virtual:8c1b566c1767e0788efae2e34fd4377b9f07dc7601025fd7b8e1814d356cbc8d32738e224b64d17fbb6b9db0d077655b202914e71ab5c8a0d77e18dab8f7841a#npm:1.2.1", {\
+          "packageLocation": "./.yarn/__virtual__/chai-deep-match-virtual-801a939542/0/cache/chai-deep-match-npm-1.2.1-dabaea01b5-fb8500cab7.zip/node_modules/chai-deep-match/",\
           "packageDependencies": [\
-            ["chai-deep-match", "virtual:9db7eeae0b9051b7023b435aabb458aeda810287297541092fc33d66203d3f692d29f94d798473e893c26ca5c6b71db58a05477bbeaae71eb4bb18a0cd4ac5f0#npm:1.2.1"],\
+            ["chai-deep-match", "virtual:8c1b566c1767e0788efae2e34fd4377b9f07dc7601025fd7b8e1814d356cbc8d32738e224b64d17fbb6b9db0d077655b202914e71ab5c8a0d77e18dab8f7841a#npm:1.2.1"],\
             ["@types/chai", null],\
             ["chai", "npm:4.3.7"],\
             ["deep-keys", "npm:0.5.0"],\
@@ -7155,27 +7155,27 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["codeceptjs", [\
-        ["npm:3.5.1", {\
-          "packageLocation": "./.yarn/cache/codeceptjs-npm-3.5.1-9db7eeae0b-d10480f711.zip/node_modules/codeceptjs/",\
+        ["npm:3.5.2", {\
+          "packageLocation": "./.yarn/cache/codeceptjs-npm-3.5.2-8c1b566c17-b1b3f19d62.zip/node_modules/codeceptjs/",\
           "packageDependencies": [\
-            ["codeceptjs", "npm:3.5.1"],\
+            ["codeceptjs", "npm:3.5.2"],\
             ["@codeceptjs/configure", "npm:0.8.0"],\
             ["@codeceptjs/helper", "npm:1.0.2"],\
             ["@cucumber/cucumber-expressions", "npm:16.1.2"],\
             ["@cucumber/gherkin", "npm:26.0.3"],\
             ["@cucumber/messages", "npm:21.0.1"],\
             ["@xmldom/xmldom", "npm:0.7.11"],\
-            ["acorn", "npm:7.4.1"],\
+            ["acorn", "npm:8.10.0"],\
             ["arrify", "npm:2.0.1"],\
             ["axios", "npm:1.4.0"],\
             ["chai", "npm:4.3.7"],\
-            ["chai-deep-match", "virtual:9db7eeae0b9051b7023b435aabb458aeda810287297541092fc33d66203d3f692d29f94d798473e893c26ca5c6b71db58a05477bbeaae71eb4bb18a0cd4ac5f0#npm:1.2.1"],\
+            ["chai-deep-match", "virtual:8c1b566c1767e0788efae2e34fd4377b9f07dc7601025fd7b8e1814d356cbc8d32738e224b64d17fbb6b9db0d077655b202914e71ab5c8a0d77e18dab8f7841a#npm:1.2.1"],\
             ["chalk", "npm:4.1.2"],\
             ["commander", "npm:11.0.0"],\
             ["cross-spawn", "npm:7.0.3"],\
             ["css-to-xpath", "npm:0.1.0"],\
             ["envinfo", "npm:7.8.1"],\
-            ["escape-string-regexp", "npm:1.0.5"],\
+            ["escape-string-regexp", "npm:4.0.0"],\
             ["figures", "npm:3.2.0"],\
             ["fn-args", "npm:4.0.0"],\
             ["fs-extra", "npm:8.1.0"],\
@@ -14526,7 +14526,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["body-parser", "npm:1.20.2"],\
             ["chai", "npm:4.3.7"],\
             ["chai-as-promised", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:7.1.1"],\
-            ["codeceptjs", "npm:3.5.1"],\
+            ["codeceptjs", "npm:3.5.2"],\
             ["config", "npm:3.3.9"],\
             ["cookie-parser", "npm:1.4.6"],\
             ["copy-webpack-plugin", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:10.2.4"],\
