@@ -31,7 +31,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.22.9"],\
             ["@babel/eslint-parser", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:7.22.9"],\
             ["@babel/preset-env", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:7.22.9"],\
-            ["@codeceptjs/configure", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:0.10.0"],\
+            ["@codeceptjs/configure", "virtual:57e6688ff3e39c507077493b772d3c5f5093fc5d2d28549816d7d566c3dc71f6cb378b20b1e3daa2a3eb02a17e034dde07a8b06fa7e6f045d5994dafd2852aee#npm:0.10.0"],\
             ["@hmcts/info-provider", "npm:1.1.0"],\
             ["@hmcts/nodejs-healthcheck", "npm:1.8.0"],\
             ["@hmcts/nodejs-logging", "npm:4.0.4"],\
@@ -61,7 +61,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["body-parser", "npm:1.20.2"],\
             ["chai", "npm:4.3.7"],\
             ["chai-as-promised", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:7.1.1"],\
-            ["codeceptjs", "npm:3.5.2"],\
+            ["codeceptjs", "npm:3.5.3"],\
             ["config", "npm:3.3.9"],\
             ["cookie-parser", "npm:1.4.6"],\
             ["copy-webpack-plugin", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:10.2.4"],\
@@ -3268,21 +3268,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["npm:0.8.0", {\
-          "packageLocation": "./.yarn/cache/@codeceptjs-configure-npm-0.8.0-620f1ec880-ec530dcf16.zip/node_modules/@codeceptjs/configure/",\
+        ["virtual:57e6688ff3e39c507077493b772d3c5f5093fc5d2d28549816d7d566c3dc71f6cb378b20b1e3daa2a3eb02a17e034dde07a8b06fa7e6f045d5994dafd2852aee#npm:0.10.0", {\
+          "packageLocation": "./.yarn/__virtual__/@codeceptjs-configure-virtual-0dd7ded0f6/0/cache/@codeceptjs-configure-npm-0.10.0-ba73c0a5e7-e4556a9c1f.zip/node_modules/@codeceptjs/configure/",\
           "packageDependencies": [\
-            ["@codeceptjs/configure", "npm:0.8.0"],\
-            ["lodash.merge", "npm:4.6.2"],\
-            ["lodash.mergewith", "npm:4.6.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:0.10.0", {\
-          "packageLocation": "./.yarn/__virtual__/@codeceptjs-configure-virtual-0c5fe6743d/0/cache/@codeceptjs-configure-npm-0.10.0-ba73c0a5e7-e4556a9c1f.zip/node_modules/@codeceptjs/configure/",\
-          "packageDependencies": [\
-            ["@codeceptjs/configure", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:0.10.0"],\
+            ["@codeceptjs/configure", "virtual:57e6688ff3e39c507077493b772d3c5f5093fc5d2d28549816d7d566c3dc71f6cb378b20b1e3daa2a3eb02a17e034dde07a8b06fa7e6f045d5994dafd2852aee#npm:0.10.0"],\
             ["@types/codeceptjs", null],\
-            ["codeceptjs", "npm:3.5.2"],\
+            ["codeceptjs", "npm:3.5.3"],\
             ["lodash.merge", "npm:4.6.2"],\
             ["lodash.mergewith", "npm:4.6.2"]\
           ],\
@@ -6918,10 +6909,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:8c1b566c1767e0788efae2e34fd4377b9f07dc7601025fd7b8e1814d356cbc8d32738e224b64d17fbb6b9db0d077655b202914e71ab5c8a0d77e18dab8f7841a#npm:1.2.1", {\
-          "packageLocation": "./.yarn/__virtual__/chai-deep-match-virtual-801a939542/0/cache/chai-deep-match-npm-1.2.1-dabaea01b5-fb8500cab7.zip/node_modules/chai-deep-match/",\
+        ["virtual:57e6688ff3e39c507077493b772d3c5f5093fc5d2d28549816d7d566c3dc71f6cb378b20b1e3daa2a3eb02a17e034dde07a8b06fa7e6f045d5994dafd2852aee#npm:1.2.1", {\
+          "packageLocation": "./.yarn/__virtual__/chai-deep-match-virtual-64018d8ef1/0/cache/chai-deep-match-npm-1.2.1-dabaea01b5-fb8500cab7.zip/node_modules/chai-deep-match/",\
           "packageDependencies": [\
-            ["chai-deep-match", "virtual:8c1b566c1767e0788efae2e34fd4377b9f07dc7601025fd7b8e1814d356cbc8d32738e224b64d17fbb6b9db0d077655b202914e71ab5c8a0d77e18dab8f7841a#npm:1.2.1"],\
+            ["chai-deep-match", "virtual:57e6688ff3e39c507077493b772d3c5f5093fc5d2d28549816d7d566c3dc71f6cb378b20b1e3daa2a3eb02a17e034dde07a8b06fa7e6f045d5994dafd2852aee#npm:1.2.1"],\
             ["@types/chai", null],\
             ["chai", "npm:4.3.7"],\
             ["deep-keys", "npm:0.5.0"],\
@@ -7221,11 +7212,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["codeceptjs", [\
-        ["npm:3.5.2", {\
-          "packageLocation": "./.yarn/cache/codeceptjs-npm-3.5.2-8c1b566c17-b1b3f19d62.zip/node_modules/codeceptjs/",\
+        ["npm:3.5.3", {\
+          "packageLocation": "./.yarn/cache/codeceptjs-npm-3.5.3-57e6688ff3-0e4542b6f5.zip/node_modules/codeceptjs/",\
           "packageDependencies": [\
-            ["codeceptjs", "npm:3.5.2"],\
-            ["@codeceptjs/configure", "npm:0.8.0"],\
+            ["codeceptjs", "npm:3.5.3"],\
+            ["@codeceptjs/configure", "virtual:57e6688ff3e39c507077493b772d3c5f5093fc5d2d28549816d7d566c3dc71f6cb378b20b1e3daa2a3eb02a17e034dde07a8b06fa7e6f045d5994dafd2852aee#npm:0.10.0"],\
             ["@codeceptjs/helper", "npm:1.0.2"],\
             ["@cucumber/cucumber-expressions", "npm:16.1.2"],\
             ["@cucumber/gherkin", "npm:26.0.3"],\
@@ -7235,7 +7226,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["arrify", "npm:2.0.1"],\
             ["axios", "npm:1.4.0"],\
             ["chai", "npm:4.3.7"],\
-            ["chai-deep-match", "virtual:8c1b566c1767e0788efae2e34fd4377b9f07dc7601025fd7b8e1814d356cbc8d32738e224b64d17fbb6b9db0d077655b202914e71ab5c8a0d77e18dab8f7841a#npm:1.2.1"],\
+            ["chai-deep-match", "virtual:57e6688ff3e39c507077493b772d3c5f5093fc5d2d28549816d7d566c3dc71f6cb378b20b1e3daa2a3eb02a17e034dde07a8b06fa7e6f045d5994dafd2852aee#npm:1.2.1"],\
             ["chalk", "npm:4.1.2"],\
             ["commander", "npm:11.0.0"],\
             ["cross-spawn", "npm:7.0.3"],\
@@ -14551,7 +14542,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.22.9"],\
             ["@babel/eslint-parser", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:7.22.9"],\
             ["@babel/preset-env", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:7.22.9"],\
-            ["@codeceptjs/configure", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:0.10.0"],\
+            ["@codeceptjs/configure", "virtual:57e6688ff3e39c507077493b772d3c5f5093fc5d2d28549816d7d566c3dc71f6cb378b20b1e3daa2a3eb02a17e034dde07a8b06fa7e6f045d5994dafd2852aee#npm:0.10.0"],\
             ["@hmcts/info-provider", "npm:1.1.0"],\
             ["@hmcts/nodejs-healthcheck", "npm:1.8.0"],\
             ["@hmcts/nodejs-logging", "npm:4.0.4"],\
@@ -14581,7 +14572,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["body-parser", "npm:1.20.2"],\
             ["chai", "npm:4.3.7"],\
             ["chai-as-promised", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:7.1.1"],\
-            ["codeceptjs", "npm:3.5.2"],\
+            ["codeceptjs", "npm:3.5.3"],\
             ["config", "npm:3.3.9"],\
             ["cookie-parser", "npm:1.4.6"],\
             ["copy-webpack-plugin", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:10.2.4"],\
