@@ -82,7 +82,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:29.6.2"],\
             ["jest-html-reporter", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:3.10.1"],\
             ["jquery", "npm:3.7.0"],\
-            ["lint-staged", "npm:13.3.0"],\
+            ["lint-staged", "npm:14.0.0"],\
             ["lodash", "npm:4.17.21"],\
             ["mini-css-extract-plugin", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:2.7.6"],\
             ["nock", "npm:13.3.2"],\
@@ -12007,16 +12007,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["lint-staged", [\
-        ["npm:13.3.0", {\
-          "packageLocation": "./.yarn/cache/lint-staged-npm-13.3.0-f729900eb4-f7c146cc28.zip/node_modules/lint-staged/",\
+        ["npm:14.0.0", {\
+          "packageLocation": "./.yarn/cache/lint-staged-npm-14.0.0-3b7e5bcf90-7269cd21c1.zip/node_modules/lint-staged/",\
           "packageDependencies": [\
-            ["lint-staged", "npm:13.3.0"],\
+            ["lint-staged", "npm:14.0.0"],\
             ["chalk", "npm:5.3.0"],\
             ["commander", "npm:11.0.0"],\
             ["debug", "virtual:9eaf5a4899064c3f055c57e0f559dc88875f793a1a2609dc036bf423e91ad9e5e8ee6be23b8816bec3ad42d85476c35b425c827a9747fd484a68aa7745d5ff7a#npm:4.3.4"],\
             ["execa", "npm:7.2.0"],\
             ["lilconfig", "npm:2.1.0"],\
-            ["listr2", "virtual:f729900eb491a1667fe8fcb3c57aaab056a2d0c4f513c4e0834af077e9299fe100f72a90fbb9aca1473a2747eae5005280a3244d57de048bd5f5d4914a05dfff#npm:6.6.1"],\
+            ["listr2", "virtual:3b7e5bcf9059a90b0a1ce2ecc05d41e6be15d6a4a513c19998cd527ec6f584cc96db75e235ffa36667d23388f22bbae86ea5754275d01d7cc26b69c54e9aee01#npm:6.6.1"],\
             ["micromatch", "npm:4.0.5"],\
             ["pidtree", "npm:0.6.0"],\
             ["string-argv", "npm:0.3.2"],\
@@ -12033,10 +12033,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:f729900eb491a1667fe8fcb3c57aaab056a2d0c4f513c4e0834af077e9299fe100f72a90fbb9aca1473a2747eae5005280a3244d57de048bd5f5d4914a05dfff#npm:6.6.1", {\
-          "packageLocation": "./.yarn/__virtual__/listr2-virtual-39a82f82d7/0/cache/listr2-npm-6.6.1-74fafa58ff-99600e8a51.zip/node_modules/listr2/",\
+        ["virtual:3b7e5bcf9059a90b0a1ce2ecc05d41e6be15d6a4a513c19998cd527ec6f584cc96db75e235ffa36667d23388f22bbae86ea5754275d01d7cc26b69c54e9aee01#npm:6.6.1", {\
+          "packageLocation": "./.yarn/__virtual__/listr2-virtual-5cee8d8a82/0/cache/listr2-npm-6.6.1-74fafa58ff-99600e8a51.zip/node_modules/listr2/",\
           "packageDependencies": [\
-            ["listr2", "virtual:f729900eb491a1667fe8fcb3c57aaab056a2d0c4f513c4e0834af077e9299fe100f72a90fbb9aca1473a2747eae5005280a3244d57de048bd5f5d4914a05dfff#npm:6.6.1"],\
+            ["listr2", "virtual:3b7e5bcf9059a90b0a1ce2ecc05d41e6be15d6a4a513c19998cd527ec6f584cc96db75e235ffa36667d23388f22bbae86ea5754275d01d7cc26b69c54e9aee01#npm:6.6.1"],\
             ["@types/enquirer", null],\
             ["cli-truncate", "npm:3.1.0"],\
             ["colorette", "npm:2.0.20"],\
@@ -14764,7 +14764,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:29.6.2"],\
             ["jest-html-reporter", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:3.10.1"],\
             ["jquery", "npm:3.7.0"],\
-            ["lint-staged", "npm:13.3.0"],\
+            ["lint-staged", "npm:14.0.0"],\
             ["lodash", "npm:4.17.21"],\
             ["mini-css-extract-plugin", "virtual:5c86d93bc614dcc07528a847be8e69a11d4241faf459870c8d05a1091ebe7795b3662598c52ebf26e4b4ca32b1afcdc5b785498f8d4aecbf706a70c82f8b004d#npm:2.7.6"],\
             ["nock", "npm:13.3.2"],\
