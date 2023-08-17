@@ -1,6 +1,6 @@
 #!groovy
 
-@Library("Infrastructure")
+@Library("Infrastructure@add_dbmigrate_node")
 
 def type = "nodejs"
 def product = "rpe"
